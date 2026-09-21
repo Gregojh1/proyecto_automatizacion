@@ -1,7 +1,6 @@
 from calculadora import Calculadora
 import pytest
-
-# PUNTO 1 -----------------------
+#PUNTO 1 -----------------------
 calculadora1 = Calculadora()
 
 
